@@ -1,4 +1,4 @@
-![Hasura logo](./assets/hasura_logo_primary_darkbg.png#gh-dark-mode-only)
+https://www.instagram.com/selendemirel202603/![Hasura logo](./assets/hasura_logo_primary_darkbg.png#gh-dark-mode-only)
 ![Hasura logo](./assets/hasura_logo_primary_lightbg.png#gh-light-mode-only)
 
 # Hasura GraphQL Engine
